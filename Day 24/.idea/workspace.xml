@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78115742-138e-4922-a03c-f587807915c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day 22 - Pong game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22 - Pong game/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22 - Pong game/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 22 - Pong game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 23 - turtle crossing/line.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 23 - turtle crossing/line1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 23 - turtle crossing/line2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/Mail Merge Project Start/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/Mail Merge Project Start/Input/Names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/Mail Merge Project Start/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/Mail Merge Project Start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/._Mail Merge Project Start" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/._Input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/._Output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/._main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/Input/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/Input/._Letters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/Input/._Names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/Input/Letters/._starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/Input/Names/._invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/Output/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/Output/._ReadyToSend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail Merge Challenge/__MACOSX/Mail Merge Project Start/Output/ReadyToSend/._example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mail+Merge+Project+Start.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 20, 21 - Snake Game/.idea/Day 20 - Snake Game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 20, 21 - Snake Game/.idea/Day 20 - Snake Game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 22 - Pong game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 22 - Pong game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 22 - Pong game/paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 22 - Pong game/paddle.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2kBuW1mWXoIBBtzdLyLNrmvwGhb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.demo.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/arlen/PycharmProjects/pythonProject demo/Python 100 days code all projects with pycharm/Day 24/Mail Merge Challenge/Mail Merge Project Start"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78115742-138e-4922-a03c-f587807915c1" name="Changes" comment="" />
+      <created>1722769318145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722769318145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

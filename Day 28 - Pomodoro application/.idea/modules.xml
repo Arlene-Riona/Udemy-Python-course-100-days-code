@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day 28 - Pomodoro application.iml" filepath="$PROJECT_DIR$/.idea/Day 28 - Pomodoro application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Day 29 - Password Manager/.idea/Day 29 - Password Manager.iml" filepath="$PROJECT_DIR$/../Day 29 - Password Manager/.idea/Day 29 - Password Manager.iml" />
+    </modules>
+  </component>
+</project>
